@@ -28,9 +28,9 @@ pip install -r requirements.txt
 
 3. Set API Key
 
-Create a .env file:
+Open source Hugging Face
 
-OPENAI_API_KEY=your_api_key_here
+
 
 4. Run Demo
 python rag_demo.py
