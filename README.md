@@ -21,9 +21,26 @@ This is a **Retrieval-Augmented Generation (RAG) assistant** that can:
 - HuggingFace Transformers
 
 ##  Usage
-1. Clone this repo
-2. Install dependencies:
-   ```bash
+1. Clone Repository
+git clone https://github.com/yourusername/RAG-Project-ReadyTensor.git
+cd RAG-Project-ReadyTensor
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Set API Key
+
+Create a .env file:
+
+OPENAI_API_KEY=your_api_key_here
+
+4. Run Demo
+python rag_demo.py
+
+
+Or launch UI:
+
+streamlit run app.py
    python "my Rag boat.py"
 
    pip install -r requirements.txt
