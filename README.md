@@ -22,8 +22,6 @@ This is a **Retrieval-Augmented Generation (RAG) assistant** that can:
 
 ##  Usage
 1. Clone Repository
-git clone https://github.com/samialrae/RAG-Project-ReadyTensor.git
-cd RAG-Project-ReadyTensor
 
 2. Install Dependencies
 pip install -r requirements.txt
